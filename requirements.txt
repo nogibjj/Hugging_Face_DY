@@ -1,3 +1,5 @@
 pytest
 pylint
 click
+huggingface_hub
+datasets
