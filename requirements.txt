@@ -3,3 +3,5 @@ pylint
 click
 huggingface_hub
 datasets
+transformers
+gradio
